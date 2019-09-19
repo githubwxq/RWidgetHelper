@@ -256,44 +256,12 @@
 ### 使用
 > ###  Gradle （版本号根据更新历史使用最新版）
 
-    api 'com.ruffian.library:RWidgetHelper:1.1.5'
+    api 'com.wxq.library:RWidgetHelper:1.0.0'
 
 
 ### 版本历史
 
-**v1.1.5**　`2019.09.17`　 修复 REditText 在Android 4.X 系统上无法正常使用
-
-**v1.1.4**　`2019.09.17`　 支持selected状态，Fix bug
-
-**v1.1.3**　`2019.09.03`　 支持阴影效果
-
-**v1.1.2**　`2019.08.30`　 RippleDrawable 与 unable / checked 状态兼容，ripper -> ripple (更名:1.1.1版本名称写错了)
-
-**v1.1.1**　`2019.08.28`　 5.0 以上版本，支持 RippleDrawable 水波纹效果
-
-**v1.1.0**　`2019.06.27`　 `RCheckBox` 和 `RRadioButton` 支持选中图片，支持继承 `RTextView` 的基础功能
-
-**v1.0.10**　`2019.06.26`　Fix bug [issues#33](https://github.com/RuffianZhong/RWidgetHelper/issues/33)
-
-**v1.0.9**　`2019.06.21`　RImageView支持ScaleType
-
-**v1.0.8**　`2019.01.30`　Fix bug [issues#25](https://github.com/RuffianZhong/RWidgetHelper/issues/25) and [issues#26](https://github.com/RuffianZhong/RWidgetHelper/issues/26)
-
-**v1.0.7**　`2018.12.20`　优化代码，Fix bug
-
-**v1.0.6**　`2018.12.18`　版本兼容，优化代码，`RFrameLayout`
-
-**v1.0.5**　`2018.12.18`　1.DrawableWithText 图片和文本一起居中  2.Fix bug
-
-**v1.0.4**　`2018.11.15`　1.背景支持图片类型 2.添加 `selector->checked`状态  添加 `RCheckBox` 和 `RRadioButton`
-
-**v1.0.3**　`2018.11.09`　Fix Bug [issues#17](https://github.com/RuffianZhong/RWidgetHelper/issues/17 "issues#17")
-
-**v1.0.2**　`2018.10.09`　添加 Gradient 渐变功能
-
-**v1.0.1**　`2018.08.20`　Fix bug setEnabled [issues #7](https://github.com/RuffianZhong/RWidgetHelper/issues/7)
-
-**v1.0.0**　`2018.04.26`　发布第一版本
+**v1.0.0**　`2019.09.19`　发布第一版本
 
 
 ## License

@@ -42,5 +42,5 @@ publish {
     artifactId = 'RWidgetHelper'
     publishVersion = '1.0.0'
     desc = 'A set widget for developer easy to use.'
-    website = 'https://github.com/RuffianZhong/RWidgetHelper'
+    website = 'https://github.com/githubwxq/RWidgetHelper'
 }
