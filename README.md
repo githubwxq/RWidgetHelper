@@ -256,7 +256,7 @@
 ### 使用
 > ###  Gradle （版本号根据更新历史使用最新版）
 
-    compile 'com.ruffian.library:RWidgetHelper:1.1.5'
+    api 'com.ruffian.library:RWidgetHelper:1.1.5'
 
 
 ### 版本历史
