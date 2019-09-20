@@ -40,7 +40,7 @@ publish {
     userOrg = 'wxq805380422qq'
     groupId = 'com.wxq.library'
     artifactId = 'RWidgetHelper'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.3'
     desc = 'A set widget for developer easy to use.'
     website = 'https://github.com/githubwxq/RWidgetHelper'
 }
